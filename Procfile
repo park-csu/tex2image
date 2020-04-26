@@ -1,0 +1,1 @@
+web: gunicorn tex2image:app
